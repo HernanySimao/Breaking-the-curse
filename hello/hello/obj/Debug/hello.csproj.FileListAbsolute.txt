@@ -1,0 +1,6 @@
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\bin\Debug\hello.exe.config
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\bin\Debug\hello.exe
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\bin\Debug\hello.pdb
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\obj\Debug\hello.exe
+C:\Users\Hernany Simão\Documents\Ficheiro\C #\hello\hello\obj\Debug\hello.pdb
